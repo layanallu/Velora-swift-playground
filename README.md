@@ -185,7 +185,7 @@ The design avoids harsh contrast and focuses on clarity and emotional comfort.
 
 ### 🌬 Breathing Ritual
 
-![Breathing Ritual](ui/01_Breathing_Alive.png)
+![Breathing Ritual](01_Breathing_Alive.png)
 
 A calm breathing entry ritual that helps the user regulate before speaking.  
 Velora expands and contracts visually to guide each breath.
@@ -194,7 +194,7 @@ Velora expands and contracts visually to guide each breath.
 
 ### 🎤 Easy Onset
 
-![Easy Onset](ui/02_EasyOnset_GuidedStart.png)
+![Easy Onset](02_EasyOnset_GuidedStart.png)
 
 Users practice starting speech gently.  
 The current word highlights as the user speaks, encouraging a softer and more controlled onset.
@@ -203,7 +203,7 @@ The current word highlights as the user speaks, encouraging a softer and more co
 
 ### 🎵 Rhythm Pacing
 
-![Rhythm Pacing](ui/03_Rhythm_Confidence.png)
+![Rhythm Pacing](03_Rhythm_Confidence.png)
 
 Speech is paced using a subtle visual rhythm.  
 This helps users maintain smoother timing and build speaking confidence.
